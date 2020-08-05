@@ -20,7 +20,7 @@ function Landing(){
                 </div>
 
                 <img 
-                    src={landingImg} 
+                     src={landingImg} 
                     alt="Plataforma de estudos" 
                     className="hero-image"
                 />
